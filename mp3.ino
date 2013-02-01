@@ -1,6 +1,6 @@
 /*
   Creating MP3 Player on Arduino UNO + MP3 Player Shield
-	Jan. 25, 2012
+	Jan. 25, 2013
 	Modify : zirrusc
  */
 
